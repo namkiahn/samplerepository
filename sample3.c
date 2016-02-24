@@ -6,5 +6,6 @@ void main()
 	int b; 
 	printf("hello");
         printf("first edit");
-   
+        printf("first edit"); // 추가  
+ 
 }
